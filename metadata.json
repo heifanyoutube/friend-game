@@ -1,0 +1,5 @@
+{
+  "name": "任務星域 (QuestSphere)",
+  "description": "一個基於積分與任務的社交互動平台，玩家可以參與官方每日挑戰，或消耗積分建立自己的玩家任務。",
+  "requestFramePermissions": []
+}
